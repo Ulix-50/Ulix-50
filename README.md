@@ -1,14 +1,14 @@
-### Hi there 👋
+### Olá, sou Ulisses 👋
 
-<!--
+
 **Ulix-50/Ulix-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🌱 C#, Javascript, HTML/CSS, Phaser (framework), Unity (Game Engine)
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: ...
--->
+- 🌱 C#, Javascript, HTML/CSS, Phaser (framework), Unity (Game Engine);
+- 😄 Pronomes: Ele/Dele;
+- ⚡ Fato Curioso: Estudo C#, mas era para ter começado no Python.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ulix-50&show_icons=true&theme=midnight-purple)
       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulix-50&theme=midnight-purple)](https://github.com/Ulix-50)
