@@ -1,6 +1,6 @@
 ### Olá, sou Ulisses 👋
 
-- 🌱 C#, Javascript, HTML/CSS, Phaser (framework), Unity (Game Engine);
+- 🌱 Apredendendo: C#, Javascript, HTML/CSS, Phaser (framework), Unity (Game Engine);
 - 😄 Pronomes: Ele/Dele;
 - ⚡ Fato Curioso: Estudo C#, mas era para ter começado no Python.
 
