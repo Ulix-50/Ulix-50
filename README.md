@@ -1,10 +1,5 @@
 ### Olá, sou Ulisses 👋
 
-
-**Ulix-50/Ulix-50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 C#, Javascript, HTML/CSS, Phaser (framework), Unity (Game Engine);
 - 😄 Pronomes: Ele/Dele;
 - ⚡ Fato Curioso: Estudo C#, mas era para ter começado no Python.
